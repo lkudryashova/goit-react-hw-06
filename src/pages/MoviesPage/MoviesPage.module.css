@@ -1,0 +1,8 @@
+.field {
+  margin: 10px 0;
+  width: 350px;
+}
+
+.field:hover {
+  border-color: lightskyblue;
+}

@@ -1,0 +1,9 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.author {
+  margin-bottom: 5px;
+}
