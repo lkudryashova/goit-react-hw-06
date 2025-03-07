@@ -1,0 +1,25 @@
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+
+  border-radius: 4px;
+  padding: 8px;
+}
+
+.wrapper {
+  display: flex;
+  gap: 2px;
+  flex-direction: column;
+}
+
+.icon {
+  margin-right: 6px;
+}
+
+button {
+  width: 66px;
+  height: 33px;
+  padding: 2px;
+}

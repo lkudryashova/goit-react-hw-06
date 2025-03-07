@@ -20,26 +20,17 @@ ol {
   list-style-type: none;
 }
 
-a {
-  color: blue;
-}
-
 img {
   display: block;
   max-width: 100%;
   height: auto;
 }
 
-.loader-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  margin-top: 10px;
-}
-
-.container {
+.wrapper {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  gap: 20px;
+  width: 290px;
+  margin-left: 15px;
+  margin-top: 15px;
 }
